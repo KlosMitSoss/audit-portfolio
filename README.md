@@ -1,8 +1,8 @@
 # KlosMitSoss | Auditing Portfolio
 
-**Independent Security Researcher** specializing in blockchain protocol security with demonstrated expertise across diverse implementations - from staking mechanisms and wallet architectures to social platforms and DeFi infrastructure. Currently studying **Computer Science & Sustainability**, focusing on energy efficiency optimization, IoT sensor networks and sustainable computing architectures.
+**Independent Security Researcher** focusing on blockchain protocol security with proven experience across a wide range of implementations, including staking mechanisms, wallet structures, social platforms, and DeFi infrastructure. I am currently studying **Computer Science & Sustainability**, with an emphasis on energy efficiency optimization, IoT sensor networks, and sustainable computing architecture.
 
-Proven track record with multiple top finishes across major audit competitions, including a 1st place victory on Code4rena. My extensive auditing experience spans liquidity management protocols, launchpad systems, social reputation networks, and wallet implementations, enabling me to identify cross-protocol vulnerabilities and apply security patterns across different domains.
+Proven track record of winning large audit competitions, including a first place on Code4rena. My extensive auditing knowledge encompasses liquidity management protocols, launchpad systems, social reputation networks, and wallet implementations, enabling me to identify cross-protocol vulnerabilities and apply security patterns across different domains.
 
 ---
 
@@ -37,4 +37,4 @@ Proven track record with multiple top finishes across major audit competitions, 
 
 ---
 
-*Last Updated: July 2025 | Portfolio reflects ongoing commitment to blockchain security across diverse protocol types*
+*Last Updated: September 2025 | Portfolio reflects ongoing commitment to blockchain security across diverse protocol types*
