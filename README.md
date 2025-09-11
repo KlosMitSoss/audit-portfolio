@@ -2,7 +2,7 @@
 
 **Independent Security Researcher** focusing on blockchain protocol security with proven experience across a wide range of implementations, including staking mechanisms, wallet structures, social platforms, and DeFi infrastructure. I am currently studying **Computer Science & Sustainability**, with an emphasis on energy efficiency optimization, IoT sensor networks, and sustainable computing architecture.
 
-Proven track record of winning large audit competitions, including a first place on Code4rena. My extensive auditing knowledge encompasses liquidity management protocols, launchpad systems, social reputation networks, and wallet implementations, enabling me to identify cross-protocol vulnerabilities and apply security patterns across different domains.
+Proven track record of winning large audit competitions, including multiple first place finishes on Code4rena. My extensive auditing knowledge encompasses liquidity management protocols, launchpad systems, social reputation networks, and wallet implementations, enabling me to identify cross-protocol vulnerabilities and apply security patterns across different domains.
 
 ---
 
@@ -10,6 +10,7 @@ Proven track record of winning large audit competitions, including a first place
 
 | Platform | Protocol | Category | Achievement | Report |
 |----------|----------|----------|-------------|---------|
+| **Code4rena** | **Morpheus** | Yield Distribution | 🥇 **1st Place** | *Report Pending* |
 | **Cantina** | **Mighty Finance** | Liquidity Management | 🥉 **3rd Place** | *Report Pending* |
 | **Immunefi** | **Movement Labs** | Blockchain | **4th Place** | [View Report](https://reports.immunefi.com/movement-labs-attackathon) |
 | **Sherlock** | **Rova** | Launchpad | 🥈 **2nd Place** | [View Report](https://audits.sherlock.xyz/contests/498/report) |
