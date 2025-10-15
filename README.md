@@ -20,6 +20,14 @@ Proven track record of winning large audit competitions, including multiple firs
 
 ---
 
+## 🔒 Private Engagements
+
+| Team | Protocol | Category  | Report |
+|----------|----------|----------|---------|
+| **BurraSec** | **Centrifuge V3.1** | RWA | [View Report](https://github.com/burrasec/Security-Reviews/blob/5f02c5c/reports/2025-09-Centrifuge-V3.1-Report.pdf) |
+
+---
+
 ## 🔍 Current Research Interests
 
 **Staking Protocol Security:**
@@ -38,4 +46,4 @@ Proven track record of winning large audit competitions, including multiple firs
 
 ---
 
-*Last Updated: September 2025 | Portfolio reflects ongoing commitment to blockchain security across diverse protocol types*
+*Last Updated: October 2025 | Portfolio reflects ongoing commitment to blockchain security across diverse protocol types*
