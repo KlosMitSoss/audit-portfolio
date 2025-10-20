@@ -12,7 +12,7 @@ Proven track record of winning large audit competitions, including multiple firs
 |----------|----------|----------|-------------|---------|
 | **Code4rena** | **Morpheus** | Yield Distribution | 🥇 **1st Place** | [View Report](https://code4rena.com/reports/2025-08-morpheus) |
 | **Cantina** | **Mighty Finance** | Liquidity Management | 🥉 **3rd Place** | *Report Pending* |
-| **Immunefi** | **Movement Labs** | Blockchain | **4th Place** | [View Report](https://reports.immunefi.com/movement-labs-attackathon) |
+| **Immunefi** | **Movement Labs** | L2 | **4th Place** | [View Report](https://reports.immunefi.com/movement-labs-attackathon) |
 | **Sherlock** | **Rova** | Launchpad | 🥈 **2nd Place** | [View Report](https://audits.sherlock.xyz/contests/498/report) |
 | **Cantina** | **DeFi App** | Staking | 🥉 **3rd Place** | [View Report](https://cantina.xyz/portfolio/8410dfc1-a319-4bb0-be1c-bc92a25e57a9) |
 | **Sherlock** | **Ethos Network Social Contracts** | Social Reputation Platform | 🥉 **3rd Place** | [View Report](https://audits.sherlock.xyz/contests/584/report) |
