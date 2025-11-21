@@ -22,9 +22,16 @@ Proven track record of winning large audit competitions, including multiple firs
 
 ## 🔒 Private Engagements
 
-| Team | Protocol | Category  | Report |
-|----------|----------|----------|---------|
-| **BurraSec** | **Centrifuge V3.1** | RWA | [View Report](https://github.com/burrasec/Security-Reviews/blob/5f02c5c/reports/2025-09-Centrifuge-V3.1-Report.pdf) |
+| Date | Team | Protocol | Category  | Report |
+|----------|----------|----------|----------|---------|
+| 2025.11 | **BailSec** | **ListaDAO** | Lending | *Report Pending* |
+| 2025.11 | **BailSec** | **Protos** | ERC4626, Staking | *Report Pending* |
+| 2025.10 | **BailSec** | **DeBridge** | Bridge | *Report Pending* |
+| 2025.10 | **BailSec** | **ListaDAO** | Lending | *Report Pending* |
+| 2025.09 | **BurraSec** | **Centrifuge V3.1** | RWA | [View Report](https://github.com/burrasec/Security-Reviews/blob/5f02c5c/reports/2025-09-Centrifuge-V3.1-Report.pdf) |
+| 2025.09 | **BailSec** | **Protos** | ERC4626, Staking | *Report Pending* |
+
+*Note: BailSec engagements conducted as part of a 4-6 auditor team*
 
 ---
 
@@ -46,4 +53,4 @@ Proven track record of winning large audit competitions, including multiple firs
 
 ---
 
-*Last Updated: October 2025 | Portfolio reflects ongoing commitment to blockchain security across diverse protocol types*
+*Last Updated: November 2025 | Portfolio reflects ongoing commitment to blockchain security across diverse protocol types*
