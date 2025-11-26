@@ -10,6 +10,7 @@ Proven track record of winning large audit competitions, including multiple firs
 
 | Platform | Protocol | Category | Achievement | Report |
 |----------|----------|----------|-------------|---------|
+| **Immunefi** | **Plume Network** | RWA | **4th Place** | *Report Pending* |
 | **Code4rena** | **Morpheus** | Yield Distribution | 🥇 **1st Place** | [View Report](https://code4rena.com/reports/2025-08-morpheus) |
 | **Cantina** | **Mighty Finance** | Liquidity Management | 🥉 **3rd Place** | *Report Pending* |
 | **Immunefi** | **Movement Labs** | L2 | **4th Place** | [View Report](https://reports.immunefi.com/movement-labs-attackathon) |
