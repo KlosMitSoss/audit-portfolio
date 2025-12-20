@@ -25,6 +25,8 @@ Proven track record of winning large audit competitions, including multiple firs
 
 | Date | Team | Protocol | Category  | Report |
 |----------|----------|----------|----------|---------|
+| 2025.11 | **BailSec** | **ListaDAO** | LST | *Report Pending* |
+| 2025.11 | **BailSec** | **Hyperdrive** | Lending | *Report Pending* |
 | 2025.11 | **BailSec** | **ListaDAO** | Lending | *Report Pending* |
 | 2025.11 | **BailSec** | **Protos** | ERC4626, Staking | *Report Pending* |
 | 2025.10 | **BailSec** | **DeBridge** | Bridge | *Report Pending* |
@@ -54,4 +56,4 @@ Proven track record of winning large audit competitions, including multiple firs
 
 ---
 
-*Last Updated: November 2025 | Portfolio reflects ongoing commitment to blockchain security across diverse protocol types*
+*Last Updated: December 2025 | Portfolio reflects ongoing commitment to blockchain security across diverse protocol types*
