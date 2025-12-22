@@ -38,16 +38,6 @@ Proven track record of winning large audit competitions, including multiple firs
 
 ---
 
-## 🔍 Current Research Interests
-
-**Staking Protocol Security:**
-- Slashing condition edge cases and validator punishment mechanisms
-- Economic attack vectors in restaking protocols
-- Liquid staking derivative risks and yield manipulation
-- Multi-validator coordination vulnerabilities
-
----
-
 ## 📞 Connect
 
 - **Twitter / X**: [@KlosMitSossxyz](https://x.com/KlosMitSossxyz)
