@@ -48,4 +48,4 @@ Proven track record of winning large audit competitions, including multiple firs
 
 ---
 
-*Last Updated: January 2026 | Portfolio reflects ongoing commitment to blockchain security across diverse protocol types*
+*Last Updated: February 2026 | Portfolio reflects ongoing commitment to blockchain security across diverse protocol types*
