@@ -25,6 +25,8 @@ Proven track record of winning large audit competitions, including multiple firs
 
 | Date | Team | Protocol | Category  | Report |
 |----------|----------|----------|----------|---------|
+| 2026.02 | **Pashov Audit Group** | **RAAC** | RWA, Lending | *Report Pending* |
+| 2026.02 | **BailSec** | **Hyperdrive** | Lending | *Report Pending* |
 | 2026.01 | **BailSec** | **Nami** | ve(3,3) | *Report Pending* |
 | 2025.12 | **BailSec** | **Nest** | ve(3,3) | *Report Pending* |
 | 2025.11 | **BailSec** | **ListaDAO** | LST | *Report Pending* |
