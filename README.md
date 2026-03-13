@@ -25,7 +25,8 @@ Proven track record of winning large audit competitions, including multiple firs
 
 | Date | Team | Protocol | Category  | Report |
 |----------|----------|----------|----------|---------|
-| 2026.02 | **Pashov Audit Group** | **Ample Earn** | Yield aggregator | *Report Pending* |
+| 2026.03 | **Pashov Audit Group** | **Instruxi - ShareToken** | RWA | *Report Pending* |
+| 2026.02 | **Pashov Audit Group** | **Ample Earn** | Yield Aggregator | *Report Pending* |
 | 2026.02 | **Pashov Audit Group** | **RAAC** | RWA, Lending | *Report Pending* |
 | 2026.02 | **BailSec** | **Hyperdrive** | Lending | *Report Pending* |
 | 2026.01 | **BailSec** | **Nami** | ve(3,3) | *Report Pending* |
@@ -51,4 +52,4 @@ Proven track record of winning large audit competitions, including multiple firs
 
 ---
 
-*Last Updated: February 2026 | Portfolio reflects ongoing commitment to blockchain security across diverse protocol types*
+*Last Updated: March 2026 | Portfolio reflects ongoing commitment to blockchain security across diverse protocol types*
