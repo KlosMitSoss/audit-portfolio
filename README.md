@@ -25,6 +25,9 @@ Proven track record of winning large audit competitions, including multiple firs
 
 | Date | Team | Protocol | Category  | Report |
 |----------|----------|----------|----------|---------|
+| 2026.03 | **Pashov Audit Group** | **Ern** | Yield Aggregator | *Report Pending* |
+| 2026.03 | **BailSec** | **ListaDAO** | CDP | *Report Pending* |
+| 2026.03 | **BailSec** | **Dowsure** | Yield Vault | *Report Pending* |
 | 2026.03 | **Pashov Audit Group** | **Instruxi - ShareToken** | RWA | *Report Pending* |
 | 2026.02 | **Pashov Audit Group** | **Ample Earn** | Yield Aggregator | *Report Pending* |
 | 2026.02 | **Pashov Audit Group** | **RAAC** | RWA, Lending | *Report Pending* |
