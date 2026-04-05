@@ -25,6 +25,7 @@ Proven track record of winning large audit competitions, including multiple firs
 
 | Date | Team | Protocol | Category  | Report |
 |----------|----------|----------|----------|---------|
+| 2026.04 | **Pashov Audit Group** | **JonesDAO** | ERC4626 | *Report Pending* |
 | 2026.03 | **Pashov Audit Group** | **Ern** | Yield Aggregator | *Report Pending* |
 | 2026.03 | **BailSec** | **ListaDAO** | CDP | *Report Pending* |
 | 2026.03 | **BailSec** | **Dowsure** | Yield Vault | *Report Pending* |
