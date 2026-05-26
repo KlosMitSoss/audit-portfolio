@@ -25,10 +25,17 @@ Proven track record of winning large audit competitions, including multiple firs
 
 | Date | Team | Protocol | Category  | Report |
 |----------|----------|----------|----------|---------|
+| 2026.05 | **BailSec** | **Undisclosed** | Undisclosed | *Report Pending* |
+| 2026.05 | **Pashov Audit Group** | **RAAC** | Staking | *Report Pending* |
+| 2026.05 | **BailSec** | **Undisclosed** | Undisclosed | *Report Pending* |
+| 2026.05 | **BailSec** | **Undisclosed** | Undisclosed | *Report Pending* |
+| 2026.04 | **BailSec** | **Undisclosed** | Undisclosed | *Report Pending* |
+| 2026.04 | **BailSec** | **Undisclosed** | Undisclosed | *Report Pending* |
+| 2026.04 | **BailSec** | **Undisclosed** | Undisclosed | *Report Pending* |
 | 2026.04 | **Pashov Audit Group** | **JonesDAO** | ERC4626 | *Report Pending* |
 | 2026.03 | **Pashov Audit Group** | **Ern** | Yield Aggregator | *Report Pending* |
-| 2026.03 | **BailSec** | **ListaDAO** | CDP | *Report Pending* |
-| 2026.03 | **BailSec** | **Dowsure** | Yield Vault | *Report Pending* |
+| 2026.03 | **BailSec** | **Undisclosed** | Undisclosed | *Report Pending* |
+| 2026.03 | **BailSec** | **Undisclosed** | Undisclosed | *Report Pending* |
 | 2026.03 | **Pashov Audit Group** | **Instruxi - ShareToken** | RWA | *Report Pending* |
 | 2026.02 | **Pashov Audit Group** | **Ample Earn** | Yield Aggregator | *Report Pending* |
 | 2026.02 | **Pashov Audit Group** | **RAAC** | RWA, Lending | *Report Pending* |
@@ -56,4 +63,4 @@ Proven track record of winning large audit competitions, including multiple firs
 
 ---
 
-*Last Updated: March 2026 | Portfolio reflects ongoing commitment to blockchain security across diverse protocol types*
+*Last Updated: May 2026 | Portfolio reflects ongoing commitment to blockchain security across diverse protocol types*
