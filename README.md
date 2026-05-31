@@ -26,6 +26,7 @@ Proven track record of winning large audit competitions, including multiple firs
 | Date | Team | Protocol | Category  | Report |
 |----------|----------|----------|----------|---------|
 | 2026.05 | **BailSec** | **Undisclosed** | Undisclosed | *Report Pending* |
+| 2026.05 | **BailSec** | **Undisclosed** | Undisclosed | *Report Pending* |
 | 2026.05 | **Pashov Audit Group** | **RAAC** | Staking | *Report Pending* |
 | 2026.05 | **BailSec** | **Undisclosed** | Undisclosed | *Report Pending* |
 | 2026.05 | **BailSec** | **Undisclosed** | Undisclosed | *Report Pending* |
